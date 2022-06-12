@@ -1,0 +1,22 @@
+#footer {
+    position: fixed;    
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/ 
+    height: 220px;
+    
+}
+
+.card{
+    background-color: rgba(63, 63, 63, 0.281);
+}
+
+.pagetitle{
+    background-color: rgba(63, 63, 63, 0.281);
+}
+
+
+.predict_button {
+    min-width: 300px;
+    max-width: 300px;
+}
